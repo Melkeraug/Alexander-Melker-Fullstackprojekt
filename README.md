@@ -21,6 +21,11 @@ Kvitton
 Datum vid köp
 
 ## Kundkorg
+ta bort
+lista
+checka ut
 
 
 ## Inlogg/registrering
+login
+skapa konto
